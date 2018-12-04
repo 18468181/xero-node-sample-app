@@ -1,0 +1,7 @@
+{
+	"appType": "private",
+	"consumerKey": "TJTVVA717VDHOYEIMHG500V8JCLLLS",
+	"consumerSecret": "X2DG2EIXTFABLQLZVLL1V7EADDHWNM",
+	"callbackUrl": null,
+	"privateKeyPath": "D:\Xero Project\xero-node-master - working\xeroNodeJs\src\internals\__tests__\helpers\test-privatekey.pem"
+}
